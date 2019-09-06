@@ -1,2 +1,4 @@
 # Tonga_P-to-S_converted
-The MATLAB GUI for picking seismogram in both time and frequency domain in order to better identify P-to-S converted phase at the slab surface
+The MATLAB GUI for picking P-to-S converted wave at the slab surface from the seismograms recorded by the Ocean Bottom Seismometes and land stations. 
+
+The four sub datasets are from my current project on the Tonga-Lau subduction zone. The MATLAB GUI can plot the seismograms in both time and frequency domain for helping identify P-to-S converted wave. 
